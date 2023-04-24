@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadCSVFile", "ReadCSVFile.csproj", "{95B80988-16A4-4030-8D7A-879980620EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B80988-16A4-4030-8D7A-879980620EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B80988-16A4-4030-8D7A-879980620EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B80988-16A4-4030-8D7A-879980620EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B80988-16A4-4030-8D7A-879980620EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A3AE2BD-C742-4383-95D9-FBA97427B42A}
+	EndGlobalSection
+EndGlobal
